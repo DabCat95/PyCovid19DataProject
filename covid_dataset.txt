@@ -1,0 +1,3468 @@
+Province/State            NaN
+Country/Region    Afghanistan
+Lat                  33.93911
+Long                67.709953
+1/22/20                     0
+                     ...     
+3/5/23                 209390
+3/6/23                 209406
+3/7/23                 209436
+3/8/23                 209451
+3/9/23                 209451
+Name: 0, Length: 1147, dtype: object
+Province/State        NaN
+Country/Region    Albania
+Lat               41.1533
+Long              20.1683
+1/22/20                 0
+                   ...   
+3/5/23             334427
+3/6/23             334427
+3/7/23             334427
+3/8/23             334443
+3/9/23             334457
+Name: 1, Length: 1147, dtype: object
+Province/State        NaN
+Country/Region    Algeria
+Lat               28.0339
+Long               1.6596
+1/22/20                 0
+                   ...   
+3/5/23             271477
+3/6/23             271477
+3/7/23             271490
+3/8/23             271494
+3/9/23             271496
+Name: 2, Length: 1147, dtype: object
+Province/State        NaN
+Country/Region    Andorra
+Lat               42.5063
+Long               1.5218
+1/22/20                 0
+                   ...   
+3/5/23              47875
+3/6/23              47875
+3/7/23              47875
+3/8/23              47890
+3/9/23              47890
+Name: 3, Length: 1147, dtype: object
+Province/State        NaN
+Country/Region     Angola
+Lat              -11.2027
+Long              17.8739
+1/22/20                 0
+                   ...   
+3/5/23             105277
+3/6/23             105277
+3/7/23             105277
+3/8/23             105288
+3/9/23             105288
+Name: 4, Length: 1147, dtype: object
+Province/State           NaN
+Country/Region    Antarctica
+Lat                 -71.9499
+Long                  23.347
+1/22/20                    0
+                     ...    
+3/5/23                    11
+3/6/23                    11
+3/7/23                    11
+3/8/23                    11
+3/9/23                    11
+Name: 5, Length: 1147, dtype: object
+Province/State                    NaN
+Country/Region    Antigua and Barbuda
+Lat                           17.0608
+Long                         -61.7964
+1/22/20                             0
+                         ...         
+3/5/23                           9106
+3/6/23                           9106
+3/7/23                           9106
+3/8/23                           9106
+3/9/23                           9106
+Name: 6, Length: 1147, dtype: object
+Province/State          NaN
+Country/Region    Argentina
+Lat                -38.4161
+Long               -63.6167
+1/22/20                   0
+                    ...    
+3/5/23             10044125
+3/6/23             10044957
+3/7/23             10044957
+3/8/23             10044957
+3/9/23             10044957
+Name: 7, Length: 1147, dtype: object
+Province/State        NaN
+Country/Region    Armenia
+Lat               40.0691
+Long              45.0382
+1/22/20                 0
+                   ...   
+3/5/23             446819
+3/6/23             446819
+3/7/23             446819
+3/8/23             447308
+3/9/23             447308
+Name: 8, Length: 1147, dtype: object
+Province/State    Australian Capital Territory
+Country/Region                       Australia
+Lat                                   -35.4735
+Long                                  149.0124
+1/22/20                                      0
+                              ...             
+3/5/23                                  232619
+3/6/23                                  232619
+3/7/23                                  232619
+3/8/23                                  232619
+3/9/23                                  232974
+Name: 9, Length: 1147, dtype: object
+Province/State    New South Wales
+Country/Region          Australia
+Lat                      -33.8688
+Long                     151.2093
+1/22/20                         0
+                       ...       
+3/5/23                    3908129
+3/6/23                    3908129
+3/7/23                    3908129
+3/8/23                    3908129
+3/9/23                    3915992
+Name: 10, Length: 1147, dtype: object
+Province/State    Northern Territory
+Country/Region             Australia
+Lat                         -12.4634
+Long                        130.8456
+1/22/20                            0
+                         ...        
+3/5/23                        105021
+3/6/23                        105021
+3/7/23                        105021
+3/8/23                        105021
+3/9/23                        105111
+Name: 11, Length: 1147, dtype: object
+Province/State    Queensland
+Country/Region     Australia
+Lat                 -27.4698
+Long                153.0251
+1/22/20                    0
+                     ...    
+3/5/23               1800236
+3/6/23               1800236
+3/7/23               1800236
+3/8/23               1800236
+3/9/23               1800236
+Name: 12, Length: 1147, dtype: object
+Province/State    South Australia
+Country/Region          Australia
+Lat                      -34.9285
+Long                     138.6007
+1/22/20                         0
+                       ...       
+3/5/23                     881911
+3/6/23                     881911
+3/7/23                     881911
+3/8/23                     881911
+3/9/23                     883620
+Name: 13, Length: 1147, dtype: object
+Province/State     Tasmania
+Country/Region    Australia
+Lat                -42.8821
+Long               147.3272
+1/22/20                   0
+                    ...    
+3/5/23               286897
+3/6/23               286897
+3/7/23               286897
+3/8/23               286897
+3/9/23               287507
+Name: 14, Length: 1147, dtype: object
+Province/State     Victoria
+Country/Region    Australia
+Lat                -37.8136
+Long               144.9631
+1/22/20                   0
+                    ...    
+3/5/23              2877260
+3/6/23              2877260
+3/7/23              2877260
+3/8/23              2877260
+3/9/23              2880559
+Name: 15, Length: 1147, dtype: object
+Province/State    Western Australia
+Country/Region            Australia
+Lat                        -31.9505
+Long                       115.8605
+1/22/20                           0
+                        ...        
+3/5/23                      1293461
+3/6/23                      1293461
+3/7/23                      1293461
+3/8/23                      1293461
+3/9/23                      1293461
+Name: 16, Length: 1147, dtype: object
+Province/State        NaN
+Country/Region    Austria
+Lat               47.5162
+Long              14.5501
+1/22/20                 0
+                   ...   
+3/5/23            5940935
+3/6/23            5943417
+3/7/23            5949418
+3/8/23            5955860
+3/9/23            5961143
+Name: 17, Length: 1147, dtype: object
+Province/State           NaN
+Country/Region    Azerbaijan
+Lat                  40.1431
+Long                 47.5769
+1/22/20                    0
+                     ...    
+3/5/23                828721
+3/6/23                828730
+3/7/23                828783
+3/8/23                828819
+3/9/23                828825
+Name: 18, Length: 1147, dtype: object
+Province/State          NaN
+Country/Region      Bahamas
+Lat               25.025885
+Long             -78.035889
+1/22/20                   0
+                    ...    
+3/5/23                37491
+3/6/23                37491
+3/7/23                37491
+3/8/23                37491
+3/9/23                37491
+Name: 19, Length: 1147, dtype: object
+Province/State        NaN
+Country/Region    Bahrain
+Lat               26.0275
+Long                50.55
+1/22/20                 0
+                   ...   
+3/5/23             709230
+3/6/23             709230
+3/7/23             709858
+3/8/23             710306
+3/9/23             710693
+Name: 20, Length: 1147, dtype: object
+Province/State           NaN
+Country/Region    Bangladesh
+Lat                   23.685
+Long                 90.3563
+1/22/20                    0
+                     ...    
+3/5/23               2037829
+3/6/23               2037829
+3/7/23               2037829
+3/8/23               2037871
+3/9/23               2037871
+Name: 21, Length: 1147, dtype: object
+Province/State         NaN
+Country/Region    Barbados
+Lat                13.1939
+Long              -59.5432
+1/22/20                  0
+                    ...   
+3/5/23              106645
+3/6/23              106645
+3/7/23              106645
+3/8/23              106645
+3/9/23              106798
+Name: 22, Length: 1147, dtype: object
+Province/State        NaN
+Country/Region    Belarus
+Lat               53.7098
+Long              27.9534
+1/22/20                 0
+                   ...   
+3/5/23             994037
+3/6/23             994037
+3/7/23             994037
+3/8/23             994037
+3/9/23             994037
+Name: 23, Length: 1147, dtype: object
+Province/State         NaN
+Country/Region     Belgium
+Lat                50.8333
+Long              4.469936
+1/22/20                  0
+                    ...   
+3/5/23             4727795
+3/6/23             4727795
+3/7/23             4727795
+3/8/23             4727795
+3/9/23             4739365
+Name: 24, Length: 1147, dtype: object
+Province/State        NaN
+Country/Region     Belize
+Lat               17.1899
+Long             -88.4976
+1/22/20                 0
+                   ...   
+3/5/23              70757
+3/6/23              70757
+3/7/23              70757
+3/8/23              70757
+3/9/23              70757
+Name: 25, Length: 1147, dtype: object
+Province/State       NaN
+Country/Region     Benin
+Lat               9.3077
+Long              2.3158
+1/22/20                0
+                   ...  
+3/5/23             27990
+3/6/23             27990
+3/7/23             27999
+3/8/23             27999
+3/9/23             27999
+Name: 26, Length: 1147, dtype: object
+Province/State        NaN
+Country/Region     Bhutan
+Lat               27.5142
+Long              90.4336
+1/22/20                 0
+                   ...   
+3/5/23              62620
+3/6/23              62620
+3/7/23              62620
+3/8/23              62627
+3/9/23              62627
+Name: 27, Length: 1147, dtype: object
+Province/State        NaN
+Country/Region    Bolivia
+Lat              -16.2902
+Long             -63.5887
+1/22/20                 0
+                   ...   
+3/5/23            1193908
+3/6/23            1193970
+3/7/23            1194069
+3/8/23            1194187
+3/9/23            1194277
+Name: 28, Length: 1147, dtype: object
+Province/State                       NaN
+Country/Region    Bosnia and Herzegovina
+Lat                              43.9159
+Long                             17.6791
+1/22/20                                0
+                           ...          
+3/5/23                            401636
+3/6/23                            401636
+3/7/23                            401636
+3/8/23                            401729
+3/9/23                            401729
+Name: 29, Length: 1147, dtype: object
+Province/State         NaN
+Country/Region    Botswana
+Lat               -22.3285
+Long               24.6849
+1/22/20                  0
+                    ...   
+3/5/23              329727
+3/6/23              329727
+3/7/23              329758
+3/8/23              329758
+3/9/23              329758
+Name: 30, Length: 1147, dtype: object
+Province/State         NaN
+Country/Region      Brazil
+Lat                -14.235
+Long              -51.9253
+1/22/20                  0
+                    ...   
+3/5/23            37081209
+3/6/23            37076053
+3/7/23            37076053
+3/8/23            37076053
+3/9/23            37076053
+Name: 31, Length: 1147, dtype: object
+Province/State         NaN
+Country/Region      Brunei
+Lat                 4.5353
+Long              114.7277
+1/22/20                  0
+                    ...   
+3/5/23              278698
+3/6/23              278698
+3/7/23              278698
+3/8/23              279661
+3/9/23              279661
+Name: 32, Length: 1147, dtype: object
+Province/State         NaN
+Country/Region    Bulgaria
+Lat                42.7339
+Long               25.4858
+1/22/20                  0
+                    ...   
+3/5/23             1297062
+3/6/23             1297243
+3/7/23             1297358
+3/8/23             1297451
+3/9/23             1297523
+Name: 33, Length: 1147, dtype: object
+Province/State             NaN
+Country/Region    Burkina Faso
+Lat                    12.2383
+Long                   -1.5616
+1/22/20                      0
+                      ...     
+3/5/23                   22056
+3/6/23                   22056
+3/7/23                   22056
+3/8/23                   22056
+3/9/23                   22056
+Name: 34, Length: 1147, dtype: object
+Province/State        NaN
+Country/Region      Burma
+Lat               21.9162
+Long               95.956
+1/22/20                 0
+                   ...   
+3/5/23             633946
+3/6/23             633947
+3/7/23             633949
+3/8/23             633949
+3/9/23             633950
+Name: 35, Length: 1147, dtype: object
+Province/State        NaN
+Country/Region    Burundi
+Lat               -3.3731
+Long              29.9189
+1/22/20                 0
+                   ...   
+3/5/23              53631
+3/6/23              53631
+3/7/23              53631
+3/8/23              53631
+3/9/23              53631
+Name: 36, Length: 1147, dtype: object
+Province/State           NaN
+Country/Region    Cabo Verde
+Lat                  16.5388
+Long                -23.0418
+1/22/20                    0
+                     ...    
+3/5/23                 63244
+3/6/23                 63244
+3/7/23                 63244
+3/8/23                 63244
+3/9/23                 63244
+Name: 37, Length: 1147, dtype: object
+Province/State         NaN
+Country/Region    Cambodia
+Lat                  11.55
+Long              104.9167
+1/22/20                  0
+                    ...   
+3/5/23              138719
+3/6/23              138719
+3/7/23              138719
+3/8/23              138719
+3/9/23              138719
+Name: 38, Length: 1147, dtype: object
+Province/State         NaN
+Country/Region    Cameroon
+Lat                  3.848
+Long               11.5021
+1/22/20                  0
+                    ...   
+3/5/23              124392
+3/6/23              124392
+3/7/23              124392
+3/8/23              124392
+3/9/23              124392
+Name: 39, Length: 1147, dtype: object
+Province/State     Alberta
+Country/Region      Canada
+Lat                53.9333
+Long             -116.5765
+1/22/20                  0
+                    ...   
+3/5/23              628947
+3/6/23              628947
+3/7/23              628947
+3/8/23              629269
+3/9/23              629269
+Name: 40, Length: 1147, dtype: object
+Province/State    British Columbia
+Country/Region              Canada
+Lat                        53.7267
+Long                     -127.6476
+1/22/20                          0
+                        ...       
+3/5/23                      396472
+3/6/23                      396472
+3/7/23                      396472
+3/8/23                      396472
+3/9/23                      396817
+Name: 41, Length: 1147, dtype: object
+Province/State    Diamond Princess
+Country/Region              Canada
+Lat                            0.0
+Long                           0.0
+1/22/20                          0
+                        ...       
+3/5/23                           0
+3/6/23                           0
+3/7/23                           0
+3/8/23                           0
+3/9/23                           0
+Name: 42, Length: 1147, dtype: object
+Province/State    Grand Princess
+Country/Region            Canada
+Lat                          0.0
+Long                         0.0
+1/22/20                        0
+                       ...      
+3/5/23                        13
+3/6/23                        13
+3/7/23                        13
+3/8/23                        13
+3/9/23                        13
+Name: 43, Length: 1147, dtype: object
+Province/State    Manitoba
+Country/Region      Canada
+Lat                53.7609
+Long              -98.8139
+1/22/20                  0
+                    ...   
+3/5/23              154588
+3/6/23              154712
+3/7/23              154712
+3/8/23              154712
+3/9/23              154712
+Name: 44, Length: 1147, dtype: object
+Province/State    New Brunswick
+Country/Region           Canada
+Lat                     46.5653
+Long                   -66.4619
+1/22/20                       0
+                      ...      
+3/5/23                    88503
+3/6/23                    88866
+3/7/23                    88866
+3/8/23                    88866
+3/9/23                    88866
+Name: 45, Length: 1147, dtype: object
+Province/State    Newfoundland and Labrador
+Country/Region                       Canada
+Lat                                 53.1355
+Long                               -57.6604
+1/22/20                                   0
+                            ...            
+3/5/23                                54583
+3/6/23                                54757
+3/7/23                                54757
+3/8/23                                54757
+3/9/23                                54757
+Name: 46, Length: 1147, dtype: object
+Province/State    Northwest Territories
+Country/Region                   Canada
+Lat                             64.8255
+Long                          -124.8457
+1/22/20                               0
+                          ...          
+3/5/23                            11511
+3/6/23                            11511
+3/7/23                            11511
+3/8/23                            11511
+3/9/23                            11511
+Name: 47, Length: 1147, dtype: object
+Province/State    Nova Scotia
+Country/Region         Canada
+Lat                    44.682
+Long                 -63.7443
+1/22/20                     0
+                     ...     
+3/5/23                 140492
+3/6/23                 140793
+3/7/23                 140793
+3/8/23                 140793
+3/9/23                 140793
+Name: 48, Length: 1147, dtype: object
+Province/State    Nunavut
+Country/Region     Canada
+Lat               70.2998
+Long             -83.1076
+1/22/20                 0
+                   ...   
+3/5/23               3531
+3/6/23               3531
+3/7/23               3531
+3/8/23               3531
+3/9/23               3531
+Name: 49, Length: 1147, dtype: object
+Province/State    Ontario
+Country/Region     Canada
+Lat               51.2538
+Long             -85.3232
+1/22/20                 0
+                   ...   
+3/5/23            1597894
+3/6/23            1597894
+3/7/23            1598075
+3/8/23            1598075
+3/9/23            1601325
+Name: 50, Length: 1147, dtype: object
+Province/State    Prince Edward Island
+Country/Region                  Canada
+Lat                            46.5107
+Long                          -63.4168
+1/22/20                              0
+                          ...         
+3/5/23                           56456
+3/6/23                           56456
+3/7/23                           56523
+3/8/23                           56523
+3/9/23                           56523
+Name: 51, Length: 1147, dtype: object
+Province/State     Quebec
+Country/Region     Canada
+Lat               52.9399
+Long             -73.5491
+1/22/20                 0
+                   ...   
+3/5/23            1318504
+3/6/23            1318823
+3/7/23            1319366
+3/8/23            1319879
+3/9/23            1320325
+Name: 52, Length: 1147, dtype: object
+Province/State    Repatriated Travellers
+Country/Region                    Canada
+Lat                                  NaN
+Long                                 NaN
+1/22/20                                0
+                           ...          
+3/5/23                                13
+3/6/23                                13
+3/7/23                                13
+3/8/23                                13
+3/9/23                                13
+Name: 53, Length: 1147, dtype: object
+Province/State    Saskatchewan
+Country/Region          Canada
+Lat                    52.9399
+Long                 -106.4509
+1/22/20                      0
+                      ...     
+3/5/23                  153255
+3/6/23                  153651
+3/7/23                  153651
+3/8/23                  153651
+3/9/23                  153651
+Name: 54, Length: 1147, dtype: object
+Province/State      Yukon
+Country/Region     Canada
+Lat               64.2823
+Long               -135.0
+1/22/20                 0
+                   ...   
+3/5/23               4989
+3/6/23               4989
+3/7/23               4989
+3/8/23               4989
+3/9/23               4989
+Name: 55, Length: 1147, dtype: object
+Province/State                         NaN
+Country/Region    Central African Republic
+Lat                                 6.6111
+Long                               20.9394
+1/22/20                                  0
+                            ...           
+3/5/23                               15368
+3/6/23                               15368
+3/7/23                               15368
+3/8/23                               15368
+3/9/23                               15368
+Name: 56, Length: 1147, dtype: object
+Province/State        NaN
+Country/Region       Chad
+Lat               15.4542
+Long              18.7322
+1/22/20                 0
+                   ...   
+3/5/23               7678
+3/6/23               7678
+3/7/23               7679
+3/8/23               7679
+3/9/23               7679
+Name: 57, Length: 1147, dtype: object
+Province/State        NaN
+Country/Region      Chile
+Lat              -35.6751
+Long              -71.543
+1/22/20                 0
+                   ...   
+3/5/23            5180329
+3/6/23            5182360
+3/7/23            5184582
+3/8/23            5188380
+3/9/23            5192286
+Name: 58, Length: 1147, dtype: object
+Province/State       Anhui
+Country/Region       China
+Lat                31.8257
+Long              117.2264
+1/22/20                  1
+                    ...   
+3/5/23                2275
+3/6/23                2275
+3/7/23                2275
+3/8/23                2275
+3/9/23                2275
+Name: 59, Length: 1147, dtype: object
+Province/State     Beijing
+Country/Region       China
+Lat                40.1824
+Long              116.4142
+1/22/20                 14
+                    ...   
+3/5/23               40774
+3/6/23               40774
+3/7/23               40774
+3/8/23               40774
+3/9/23               40774
+Name: 60, Length: 1147, dtype: object
+Province/State    Chongqing
+Country/Region        China
+Lat                 30.0572
+Long                107.874
+1/22/20                   6
+                    ...    
+3/5/23                14715
+3/6/23                14715
+3/7/23                14715
+3/8/23                14715
+3/9/23                14715
+Name: 61, Length: 1147, dtype: object
+Province/State      Fujian
+Country/Region       China
+Lat                26.0789
+Long              117.9874
+1/22/20                  1
+                    ...   
+3/5/23               17122
+3/6/23               17122
+3/7/23               17122
+3/8/23               17122
+3/9/23               17122
+Name: 62, Length: 1147, dtype: object
+Province/State       Gansu
+Country/Region       China
+Lat                35.7518
+Long              104.2861
+1/22/20                  0
+                    ...   
+3/5/23                1742
+3/6/23                1742
+3/7/23                1742
+3/8/23                1742
+3/9/23                1742
+Name: 63, Length: 1147, dtype: object
+Province/State    Guangdong
+Country/Region        China
+Lat                 23.3417
+Long               113.4244
+1/22/20                  26
+                    ...    
+3/5/23               103248
+3/6/23               103248
+3/7/23               103248
+3/8/23               103248
+3/9/23               103248
+Name: 64, Length: 1147, dtype: object
+Province/State     Guangxi
+Country/Region       China
+Lat                23.8298
+Long              108.7881
+1/22/20                  2
+                    ...   
+3/5/23               13371
+3/6/23               13371
+3/7/23               13371
+3/8/23               13371
+3/9/23               13371
+Name: 65, Length: 1147, dtype: object
+Province/State     Guizhou
+Country/Region       China
+Lat                26.8154
+Long              106.8748
+1/22/20                  1
+                    ...   
+3/5/23                2534
+3/6/23                2534
+3/7/23                2534
+3/8/23                2534
+3/9/23                2534
+Name: 66, Length: 1147, dtype: object
+Province/State      Hainan
+Country/Region       China
+Lat                19.1959
+Long              109.7453
+1/22/20                  4
+                    ...   
+3/5/23               10483
+3/6/23               10483
+3/7/23               10483
+3/8/23               10483
+3/9/23               10483
+Name: 67, Length: 1147, dtype: object
+Province/State       Hebei
+Country/Region       China
+Lat                 39.549
+Long              116.1306
+1/22/20                  1
+                    ...   
+3/5/23                3292
+3/6/23                3292
+3/7/23                3292
+3/8/23                3292
+3/9/23                3292
+Name: 68, Length: 1147, dtype: object
+Province/State    Heilongjiang
+Country/Region           China
+Lat                     47.862
+Long                  127.7615
+1/22/20                      0
+                      ...     
+3/5/23                    6603
+3/6/23                    6603
+3/7/23                    6603
+3/8/23                    6603
+3/9/23                    6603
+Name: 69, Length: 1147, dtype: object
+Province/State       Henan
+Country/Region       China
+Lat                37.8957
+Long              114.9042
+1/22/20                  5
+                    ...   
+3/5/23                9948
+3/6/23                9948
+3/7/23                9948
+3/8/23                9948
+3/9/23                9948
+Name: 70, Length: 1147, dtype: object
+Province/State    Hong Kong
+Country/Region        China
+Lat                    22.3
+Long                  114.2
+1/22/20                   0
+                    ...    
+3/5/23              2876106
+3/6/23              2876106
+3/7/23              2876106
+3/8/23              2876106
+3/9/23              2876106
+Name: 71, Length: 1147, dtype: object
+Province/State       Hubei
+Country/Region       China
+Lat                30.9756
+Long              112.2707
+1/22/20                444
+                    ...   
+3/5/23               72131
+3/6/23               72131
+3/7/23               72131
+3/8/23               72131
+3/9/23               72131
+Name: 72, Length: 1147, dtype: object
+Province/State       Hunan
+Country/Region       China
+Lat                27.6104
+Long              111.7088
+1/22/20                  4
+                    ...   
+3/5/23                7437
+3/6/23                7437
+3/7/23                7437
+3/8/23                7437
+3/9/23                7437
+Name: 73, Length: 1147, dtype: object
+Province/State    Inner Mongolia
+Country/Region             China
+Lat                      44.0935
+Long                    113.9448
+1/22/20                        0
+                       ...      
+3/5/23                      8847
+3/6/23                      8847
+3/7/23                      8847
+3/8/23                      8847
+3/9/23                      8847
+Name: 74, Length: 1147, dtype: object
+Province/State    Jiangsu
+Country/Region      China
+Lat               32.9711
+Long              119.455
+1/22/20                 1
+                   ...   
+3/5/23               5075
+3/6/23               5075
+3/7/23               5075
+3/8/23               5075
+3/9/23               5075
+Name: 75, Length: 1147, dtype: object
+Province/State     Jiangxi
+Country/Region       China
+Lat                 27.614
+Long              115.7221
+1/22/20                  2
+                    ...   
+3/5/23                3423
+3/6/23                3423
+3/7/23                3423
+3/8/23                3423
+3/9/23                3423
+Name: 76, Length: 1147, dtype: object
+Province/State       Jilin
+Country/Region       China
+Lat                43.6661
+Long              126.1923
+1/22/20                  0
+                    ...   
+3/5/23               40764
+3/6/23               40764
+3/7/23               40764
+3/8/23               40764
+3/9/23               40764
+Name: 77, Length: 1147, dtype: object
+Province/State    Liaoning
+Country/Region       China
+Lat                41.2956
+Long              122.6085
+1/22/20                  2
+                    ...   
+3/5/23                3547
+3/6/23                3547
+3/7/23                3547
+3/8/23                3547
+3/9/23                3547
+Name: 78, Length: 1147, dtype: object
+Province/State      Macau
+Country/Region      China
+Lat               22.1667
+Long               113.55
+1/22/20                 1
+                   ...   
+3/5/23               3514
+3/6/23               3514
+3/7/23               3514
+3/8/23               3514
+3/9/23               3514
+Name: 79, Length: 1147, dtype: object
+Province/State     Ningxia
+Country/Region       China
+Lat                37.2692
+Long              106.1655
+1/22/20                  1
+                    ...   
+3/5/23                1276
+3/6/23                1276
+3/7/23                1276
+3/8/23                1276
+3/9/23                1276
+Name: 80, Length: 1147, dtype: object
+Province/State    Qinghai
+Country/Region      China
+Lat               35.7452
+Long              95.9956
+1/22/20                 0
+                   ...   
+3/5/23                782
+3/6/23                782
+3/7/23                782
+3/8/23                782
+3/9/23                782
+Name: 81, Length: 1147, dtype: object
+Province/State     Shaanxi
+Country/Region       China
+Lat                35.1917
+Long              108.8701
+1/22/20                  0
+                    ...   
+3/5/23                7326
+3/6/23                7326
+3/7/23                7326
+3/8/23                7326
+3/9/23                7326
+Name: 82, Length: 1147, dtype: object
+Province/State    Shandong
+Country/Region       China
+Lat                36.3427
+Long              118.1498
+1/22/20                  2
+                    ...   
+3/5/23                5880
+3/6/23                5880
+3/7/23                5880
+3/8/23                5880
+3/9/23                5880
+Name: 83, Length: 1147, dtype: object
+Province/State    Shanghai
+Country/Region       China
+Lat                 31.202
+Long              121.4491
+1/22/20                  9
+                    ...   
+3/5/23               67040
+3/6/23               67040
+3/7/23               67040
+3/8/23               67040
+3/9/23               67040
+Name: 84, Length: 1147, dtype: object
+Province/State      Shanxi
+Country/Region       China
+Lat                37.5777
+Long              112.2922
+1/22/20                  1
+                    ...   
+3/5/23                7167
+3/6/23                7167
+3/7/23                7167
+3/8/23                7167
+3/9/23                7167
+Name: 85, Length: 1147, dtype: object
+Province/State     Sichuan
+Country/Region       China
+Lat                30.6171
+Long              102.7103
+1/22/20                  5
+                    ...   
+3/5/23               14567
+3/6/23               14567
+3/7/23               14567
+3/8/23               14567
+3/9/23               14567
+Name: 86, Length: 1147, dtype: object
+Province/State    Tianjin
+Country/Region      China
+Lat               39.3054
+Long              117.323
+1/22/20                 4
+                   ...   
+3/5/23               4392
+3/6/23               4392
+3/7/23               4392
+3/8/23               4392
+3/9/23               4392
+Name: 87, Length: 1147, dtype: object
+Province/State      Tibet
+Country/Region      China
+Lat               31.6927
+Long              88.0924
+1/22/20                 0
+                   ...   
+3/5/23               1647
+3/6/23               1647
+3/7/23               1647
+3/8/23               1647
+3/9/23               1647
+Name: 88, Length: 1147, dtype: object
+Province/State    Unknown
+Country/Region      China
+Lat                   NaN
+Long                  NaN
+1/22/20                 0
+                   ...   
+3/5/23            1521816
+3/6/23            1521816
+3/7/23            1521816
+3/8/23            1521816
+3/9/23            1521816
+Name: 89, Length: 1147, dtype: object
+Province/State    Xinjiang
+Country/Region       China
+Lat                41.1129
+Long               85.2401
+1/22/20                  0
+                    ...   
+3/5/23                3089
+3/6/23                3089
+3/7/23                3089
+3/8/23                3089
+3/9/23                3089
+Name: 90, Length: 1147, dtype: object
+Province/State     Yunnan
+Country/Region      China
+Lat                24.974
+Long              101.487
+1/22/20                 1
+                   ...   
+3/5/23               9743
+3/6/23               9743
+3/7/23               9743
+3/8/23               9743
+3/9/23               9743
+Name: 91, Length: 1147, dtype: object
+Province/State    Zhejiang
+Country/Region       China
+Lat                29.1832
+Long              120.0934
+1/22/20                 10
+                    ...   
+3/5/23               11848
+3/6/23               11848
+3/7/23               11848
+3/8/23               11848
+3/9/23               11848
+Name: 92, Length: 1147, dtype: object
+Province/State         NaN
+Country/Region    Colombia
+Lat                 4.5709
+Long              -74.2973
+1/22/20                  0
+                    ...   
+3/5/23             6358232
+3/6/23             6358232
+3/7/23             6358232
+3/8/23             6359093
+3/9/23             6359093
+Name: 93, Length: 1147, dtype: object
+Province/State        NaN
+Country/Region    Comoros
+Lat              -11.6455
+Long              43.3333
+1/22/20                 0
+                   ...   
+3/5/23               9001
+3/6/23               9001
+3/7/23               9001
+3/8/23               9008
+3/9/23               9008
+Name: 94, Length: 1147, dtype: object
+Province/State                    NaN
+Country/Region    Congo (Brazzaville)
+Lat                            -0.228
+Long                          15.8277
+1/22/20                             0
+                         ...         
+3/5/23                          25077
+3/6/23                          25077
+3/7/23                          25077
+3/8/23                          25087
+3/9/23                          25087
+Name: 95, Length: 1147, dtype: object
+Province/State                 NaN
+Country/Region    Congo (Kinshasa)
+Lat                        -4.0383
+Long                       21.7587
+1/22/20                          0
+                        ...       
+3/5/23                       95749
+3/6/23                       95749
+3/7/23                       95749
+3/8/23                       95749
+3/9/23                       95749
+Name: 96, Length: 1147, dtype: object
+Province/State           NaN
+Country/Region    Costa Rica
+Lat                   9.7489
+Long                -83.7534
+1/22/20                    0
+                     ...    
+3/5/23               1204164
+3/6/23               1204164
+3/7/23               1204164
+3/8/23               1209725
+3/9/23               1209725
+Name: 97, Length: 1147, dtype: object
+Province/State              NaN
+Country/Region    Cote d'Ivoire
+Lat                        7.54
+Long                    -5.5471
+1/22/20                       0
+                      ...      
+3/5/23                    88240
+3/6/23                    88246
+3/7/23                    88255
+3/8/23                    88255
+3/9/23                    88263
+Name: 98, Length: 1147, dtype: object
+Province/State        NaN
+Country/Region    Croatia
+Lat                  45.1
+Long                 15.2
+1/22/20                 0
+                   ...   
+3/5/23            1268992
+3/6/23            1269326
+3/7/23            1269326
+3/8/23            1269326
+3/9/23            1269326
+Name: 99, Length: 1147, dtype: object
+Province/State          NaN
+Country/Region         Cuba
+Lat               21.521757
+Long             -77.781167
+1/22/20                   0
+                    ...    
+3/5/23              1112625
+3/6/23              1112631
+3/7/23              1112631
+3/8/23              1112637
+3/9/23              1112643
+Name: 100, Length: 1147, dtype: object
+Province/State        NaN
+Country/Region     Cyprus
+Lat               35.1264
+Long              33.4299
+1/22/20                 0
+                   ...   
+3/5/23             650685
+3/6/23             650685
+3/7/23             650685
+3/8/23             650685
+3/9/23             650685
+Name: 101, Length: 1147, dtype: object
+Province/State        NaN
+Country/Region    Czechia
+Lat               49.8175
+Long               15.473
+1/22/20                 0
+                   ...   
+3/5/23            4614022
+3/6/23            4614143
+3/7/23            4615945
+3/8/23            4617114
+3/9/23            4618256
+Name: 102, Length: 1147, dtype: object
+Province/State    Faroe Islands
+Country/Region          Denmark
+Lat                     61.8926
+Long                    -6.9118
+1/22/20                       0
+                      ...      
+3/5/23                    34658
+3/6/23                    34658
+3/7/23                    34658
+3/8/23                    34658
+3/9/23                    34658
+Name: 103, Length: 1147, dtype: object
+Province/State    Greenland
+Country/Region      Denmark
+Lat                 71.7069
+Long               -42.6043
+1/22/20                   0
+                    ...    
+3/5/23                11971
+3/6/23                11971
+3/7/23                11971
+3/8/23                11971
+3/9/23                11971
+Name: 104, Length: 1147, dtype: object
+Province/State        NaN
+Country/Region    Denmark
+Lat               56.2639
+Long               9.5018
+1/22/20                 0
+                   ...   
+3/5/23            3403707
+3/6/23            3403958
+3/7/23            3404128
+3/8/23            3404268
+3/9/23            3404407
+Name: 105, Length: 1147, dtype: object
+Province/State                 NaN
+Country/Region    Diamond Princess
+Lat                            0.0
+Long                           0.0
+1/22/20                          0
+                        ...       
+3/5/23                         712
+3/6/23                         712
+3/7/23                         712
+3/8/23                         712
+3/9/23                         712
+Name: 106, Length: 1147, dtype: object
+Province/State         NaN
+Country/Region    Djibouti
+Lat                11.8251
+Long               42.5903
+1/22/20                  0
+                    ...   
+3/5/23               15690
+3/6/23               15690
+3/7/23               15690
+3/8/23               15690
+3/9/23               15690
+Name: 107, Length: 1147, dtype: object
+Province/State         NaN
+Country/Region    Dominica
+Lat                 15.415
+Long               -61.371
+1/22/20                  0
+                    ...   
+3/5/23               15760
+3/6/23               15760
+3/7/23               15760
+3/8/23               15760
+3/9/23               15760
+Name: 108, Length: 1147, dtype: object
+Province/State                   NaN
+Country/Region    Dominican Republic
+Lat                          18.7357
+Long                        -70.1627
+1/22/20                            0
+                         ...        
+3/5/23                        660705
+3/6/23                        660705
+3/7/23                        660705
+3/8/23                        660790
+3/9/23                        660790
+Name: 109, Length: 1147, dtype: object
+Province/State        NaN
+Country/Region    Ecuador
+Lat               -1.8312
+Long             -78.1834
+1/22/20                 0
+                   ...   
+3/5/23            1057121
+3/6/23            1057121
+3/7/23            1057121
+3/8/23            1057121
+3/9/23            1057121
+Name: 110, Length: 1147, dtype: object
+Province/State          NaN
+Country/Region        Egypt
+Lat               26.820553
+Long              30.802498
+1/22/20                   0
+                    ...    
+3/5/23               515698
+3/6/23               515698
+3/7/23               515698
+3/8/23               515759
+3/9/23               515759
+Name: 111, Length: 1147, dtype: object
+Province/State            NaN
+Country/Region    El Salvador
+Lat                   13.7942
+Long                 -88.8965
+1/22/20                     0
+                     ...     
+3/5/23                 201785
+3/6/23                 201785
+3/7/23                 201785
+3/8/23                 201785
+3/9/23                 201785
+Name: 112, Length: 1147, dtype: object
+Province/State                  NaN
+Country/Region    Equatorial Guinea
+Lat                          1.6508
+Long                        10.2679
+1/22/20                           0
+                        ...        
+3/5/23                        17229
+3/6/23                        17229
+3/7/23                        17229
+3/8/23                        17229
+3/9/23                        17229
+Name: 113, Length: 1147, dtype: object
+Province/State        NaN
+Country/Region    Eritrea
+Lat               15.1794
+Long              39.7823
+1/22/20                 0
+                   ...   
+3/5/23              10189
+3/6/23              10189
+3/7/23              10189
+3/8/23              10189
+3/9/23              10189
+Name: 114, Length: 1147, dtype: object
+Province/State        NaN
+Country/Region    Estonia
+Lat               58.5953
+Long              25.0136
+1/22/20                 0
+                   ...   
+3/5/23             615128
+3/6/23             615128
+3/7/23             615423
+3/8/23             615433
+3/9/23             615433
+Name: 115, Length: 1147, dtype: object
+Province/State         NaN
+Country/Region    Eswatini
+Lat               -26.5225
+Long               31.4659
+1/22/20                  0
+                    ...   
+3/5/23               74267
+3/6/23               74267
+3/7/23               74267
+3/8/23               74267
+3/9/23               74267
+Name: 116, Length: 1147, dtype: object
+Province/State         NaN
+Country/Region    Ethiopia
+Lat                  9.145
+Long               40.4897
+1/22/20                  0
+                    ...   
+3/5/23              500050
+3/6/23              500060
+3/7/23              500085
+3/8/23              500102
+3/9/23              500116
+Name: 117, Length: 1147, dtype: object
+Province/State        NaN
+Country/Region       Fiji
+Lat              -17.7134
+Long              178.065
+1/22/20                 0
+                   ...   
+3/5/23              68897
+3/6/23              68897
+3/7/23              68897
+3/8/23              68897
+3/9/23              68898
+Name: 118, Length: 1147, dtype: object
+Province/State          NaN
+Country/Region      Finland
+Lat                61.92411
+Long              25.748151
+1/22/20                   0
+                    ...    
+3/5/23              1462976
+3/6/23              1462976
+3/7/23              1462976
+3/8/23              1462976
+3/9/23              1463644
+Name: 119, Length: 1147, dtype: object
+Province/State    French Guiana
+Country/Region           France
+Lat                      3.9339
+Long                   -53.1258
+1/22/20                       0
+                      ...      
+3/5/23                    98041
+3/6/23                    98041
+3/7/23                    98041
+3/8/23                    98041
+3/9/23                    98041
+Name: 120, Length: 1147, dtype: object
+Province/State    French Polynesia
+Country/Region              France
+Lat                       -17.6797
+Long                      149.4068
+1/22/20                          0
+                        ...       
+3/5/23                       77957
+3/6/23                       77957
+3/7/23                       77957
+3/8/23                       78055
+3/9/23                       78055
+Name: 121, Length: 1147, dtype: object
+Province/State    Guadeloupe
+Country/Region        France
+Lat                   16.265
+Long                 -61.551
+1/22/20                    0
+                     ...    
+3/5/23                201852
+3/6/23                201852
+3/7/23                201852
+3/8/23                201886
+3/9/23                201886
+Name: 122, Length: 1147, dtype: object
+Province/State    Martinique
+Country/Region        France
+Lat                  14.6415
+Long                -61.0242
+1/22/20                    0
+                     ...    
+3/5/23                228875
+3/6/23                228875
+3/7/23                228875
+3/8/23                229020
+3/9/23                229020
+Name: 123, Length: 1147, dtype: object
+Province/State      Mayotte
+Country/Region       France
+Lat                -12.8275
+Long              45.166244
+1/22/20                   0
+                    ...    
+3/5/23                42004
+3/6/23                42004
+3/7/23                42004
+3/8/23                42004
+3/9/23                42004
+Name: 124, Length: 1147, dtype: object
+Province/State    New Caledonia
+Country/Region           France
+Lat                  -20.904305
+Long                 165.618042
+1/22/20                       0
+                      ...      
+3/5/23                    80007
+3/6/23                    80007
+3/7/23                    80007
+3/8/23                    80017
+3/9/23                    80017
+Name: 125, Length: 1147, dtype: object
+Province/State    Reunion
+Country/Region     France
+Lat              -21.1151
+Long              55.5364
+1/22/20                 0
+                   ...   
+3/5/23             494595
+3/6/23             494595
+3/7/23             494595
+3/8/23             494595
+3/9/23             494595
+Name: 126, Length: 1147, dtype: object
+Province/State    Saint Barthelemy
+Country/Region              France
+Lat                           17.9
+Long                      -62.8333
+1/22/20                          0
+                        ...       
+3/5/23                        5439
+3/6/23                        5439
+3/7/23                        5439
+3/8/23                        5441
+3/9/23                        5441
+Name: 127, Length: 1147, dtype: object
+Province/State    Saint Pierre and Miquelon
+Country/Region                       France
+Lat                                 46.8852
+Long                               -56.3159
+1/22/20                                   0
+                            ...            
+3/5/23                                 3452
+3/6/23                                 3452
+3/7/23                                 3452
+3/8/23                                 3452
+3/9/23                                 3452
+Name: 128, Length: 1147, dtype: object
+Province/State    St Martin
+Country/Region       France
+Lat                 18.0708
+Long               -63.0501
+1/22/20                   0
+                    ...    
+3/5/23                12257
+3/6/23                12257
+3/7/23                12257
+3/8/23                12271
+3/9/23                12271
+Name: 129, Length: 1147, dtype: object
+Province/State    Wallis and Futuna
+Country/Region               France
+Lat                        -14.2938
+Long                      -178.1165
+1/22/20                           0
+                        ...        
+3/5/23                         3427
+3/6/23                         3427
+3/7/23                         3427
+3/8/23                         3427
+3/9/23                         3427
+Name: 130, Length: 1147, dtype: object
+Province/State         NaN
+Country/Region      France
+Lat                46.2276
+Long                2.2137
+1/22/20                  0
+                    ...   
+3/5/23            38591184
+3/6/23            38599330
+3/7/23            38606393
+3/8/23            38612201
+3/9/23            38618509
+Name: 131, Length: 1147, dtype: object
+Province/State        NaN
+Country/Region      Gabon
+Lat               -0.8037
+Long              11.6094
+1/22/20                 0
+                   ...   
+3/5/23              48981
+3/6/23              48981
+3/7/23              48981
+3/8/23              48981
+3/9/23              48981
+Name: 132, Length: 1147, dtype: object
+Province/State        NaN
+Country/Region     Gambia
+Lat               13.4432
+Long             -15.3101
+1/22/20                 0
+                   ...   
+3/5/23              12586
+3/6/23              12586
+3/7/23              12598
+3/8/23              12598
+3/9/23              12598
+Name: 133, Length: 1147, dtype: object
+Province/State        NaN
+Country/Region    Georgia
+Lat               42.3154
+Long              43.3569
+1/22/20                 0
+                   ...   
+3/5/23            1825598
+3/6/23            1825598
+3/7/23            1825598
+3/8/23            1827537
+3/9/23            1827537
+Name: 134, Length: 1147, dtype: object
+Province/State          NaN
+Country/Region      Germany
+Lat               51.165691
+Long              10.451526
+1/22/20                   0
+                    ...    
+3/5/23             38210851
+3/6/23             38210851
+3/7/23             38231610
+3/8/23             38241231
+3/9/23             38249060
+Name: 135, Length: 1147, dtype: object
+Province/State       NaN
+Country/Region     Ghana
+Lat               7.9465
+Long             -1.0232
+1/22/20                0
+                   ...  
+3/5/23            171209
+3/6/23            171209
+3/7/23            171229
+3/8/23            171229
+3/9/23            171229
+Name: 136, Length: 1147, dtype: object
+Province/State        NaN
+Country/Region     Greece
+Lat               39.0742
+Long              21.8243
+1/22/20                 0
+                   ...   
+3/5/23            5548487
+3/6/23            5548487
+3/7/23            5548487
+3/8/23            5548487
+3/9/23            5548487
+Name: 137, Length: 1147, dtype: object
+Province/State        NaN
+Country/Region    Grenada
+Lat               12.1165
+Long              -61.679
+1/22/20                 0
+                   ...   
+3/5/23              19680
+3/6/23              19680
+3/7/23              19680
+3/8/23              19680
+3/9/23              19680
+Name: 138, Length: 1147, dtype: object
+Province/State          NaN
+Country/Region    Guatemala
+Lat                 15.7835
+Long               -90.2308
+1/22/20                   0
+                    ...    
+3/5/23              1237564
+3/6/23              1237575
+3/7/23              1237789
+3/8/23              1238049
+3/9/23              1238247
+Name: 139, Length: 1147, dtype: object
+Province/State       NaN
+Country/Region    Guinea
+Lat               9.9456
+Long             -9.6966
+1/22/20                0
+                   ...  
+3/5/23             38267
+3/6/23             38267
+3/7/23             38267
+3/8/23             38267
+3/9/23             38267
+Name: 140, Length: 1147, dtype: object
+Province/State              NaN
+Country/Region    Guinea-Bissau
+Lat                     11.8037
+Long                   -15.1804
+1/22/20                       0
+                      ...      
+3/5/23                     8960
+3/6/23                     8960
+3/7/23                     8960
+3/8/23                     8960
+3/9/23                     8960
+Name: 141, Length: 1147, dtype: object
+Province/State         NaN
+Country/Region      Guyana
+Lat               4.860416
+Long             -58.93018
+1/22/20                  0
+                    ...   
+3/5/23               73075
+3/6/23               73075
+3/7/23               73075
+3/8/23               73075
+3/9/23               73075
+Name: 142, Length: 1147, dtype: object
+Province/State        NaN
+Country/Region      Haiti
+Lat               18.9712
+Long             -72.2852
+1/22/20                 0
+                   ...   
+3/5/23              34202
+3/6/23              34202
+3/7/23              34202
+3/8/23              34202
+3/9/23              34202
+Name: 143, Length: 1147, dtype: object
+Province/State         NaN
+Country/Region    Holy See
+Lat                41.9029
+Long               12.4534
+1/22/20                  0
+                    ...   
+3/5/23                  29
+3/6/23                  29
+3/7/23                  29
+3/8/23                  29
+3/9/23                  29
+Name: 144, Length: 1147, dtype: object
+Province/State         NaN
+Country/Region    Honduras
+Lat                   15.2
+Long              -86.2419
+1/22/20                  0
+                    ...   
+3/5/23              472219
+3/6/23              472250
+3/7/23              472250
+3/8/23              472250
+3/9/23              472250
+Name: 145, Length: 1147, dtype: object
+Province/State        NaN
+Country/Region    Hungary
+Lat               47.1625
+Long              19.5033
+1/22/20                 0
+                   ...   
+3/5/23            2195926
+3/6/23            2195926
+3/7/23            2195926
+3/8/23            2196804
+3/9/23            2196804
+Name: 146, Length: 1147, dtype: object
+Province/State        NaN
+Country/Region    Iceland
+Lat               64.9631
+Long             -19.0208
+1/22/20                 0
+                   ...   
+3/5/23             209093
+3/6/23             209093
+3/7/23             209137
+3/8/23             209137
+3/9/23             209137
+Name: 147, Length: 1147, dtype: object
+Province/State          NaN
+Country/Region        India
+Lat               20.593684
+Long               78.96288
+1/22/20                   0
+                    ...    
+3/5/23             44689327
+3/6/23             44689593
+3/7/23             44689919
+3/8/23             44690298
+3/9/23             44690738
+Name: 148, Length: 1147, dtype: object
+Province/State          NaN
+Country/Region    Indonesia
+Lat                 -0.7893
+Long               113.9213
+1/22/20                   0
+                    ...    
+3/5/23              6737159
+3/6/23              6737303
+3/7/23              6737606
+3/8/23              6737918
+3/9/23              6738225
+Name: 149, Length: 1147, dtype: object
+Province/State          NaN
+Country/Region         Iran
+Lat               32.427908
+Long              53.688046
+1/22/20                   0
+                    ...    
+3/5/23              7570232
+3/6/23              7570743
+3/7/23              7571352
+3/8/23              7571996
+3/9/23              7572311
+Name: 150, Length: 1147, dtype: object
+Province/State          NaN
+Country/Region         Iraq
+Lat               33.223191
+Long              43.679291
+1/22/20                   0
+                    ...    
+3/5/23              2465545
+3/6/23              2465545
+3/7/23              2465545
+3/8/23              2465545
+3/9/23              2465545
+Name: 151, Length: 1147, dtype: object
+Province/State        NaN
+Country/Region    Ireland
+Lat               53.1424
+Long              -7.6921
+1/22/20                 0
+                   ...   
+3/5/23            1703850
+3/6/23            1703850
+3/7/23            1703850
+3/8/23            1704502
+3/9/23            1704502
+Name: 152, Length: 1147, dtype: object
+Province/State          NaN
+Country/Region       Israel
+Lat               31.046051
+Long              34.851612
+1/22/20                   0
+                    ...    
+3/5/23              4801502
+3/6/23              4801502
+3/7/23              4801502
+3/8/23              4803164
+3/9/23              4803824
+Name: 153, Length: 1147, dtype: object
+Province/State         NaN
+Country/Region       Italy
+Lat               41.87194
+Long              12.56738
+1/22/20                  0
+                    ...   
+3/5/23            25603510
+3/6/23            25603510
+3/7/23            25603510
+3/8/23            25603510
+3/9/23            25603510
+Name: 154, Length: 1147, dtype: object
+Province/State        NaN
+Country/Region    Jamaica
+Lat               18.1096
+Long             -77.2975
+1/22/20                 0
+                   ...   
+3/5/23             154196
+3/6/23             154196
+3/7/23             154196
+3/8/23             154287
+3/9/23             154416
+Name: 155, Length: 1147, dtype: object
+Province/State           NaN
+Country/Region         Japan
+Lat                36.204824
+Long              138.252924
+1/22/20                    2
+                     ...    
+3/5/23              33282370
+3/6/23              33286633
+3/7/23              33298799
+3/8/23              33310604
+3/9/23              33320438
+Name: 156, Length: 1147, dtype: object
+Province/State        NaN
+Country/Region     Jordan
+Lat                 31.24
+Long                36.51
+1/22/20                 0
+                   ...   
+3/5/23            1746997
+3/6/23            1746997
+3/7/23            1746997
+3/8/23            1746997
+3/9/23            1746997
+Name: 157, Length: 1147, dtype: object
+Province/State           NaN
+Country/Region    Kazakhstan
+Lat                  48.0196
+Long                 66.9237
+1/22/20                    0
+                     ...    
+3/5/23               1498668
+3/6/23               1498668
+3/7/23               1498668
+3/8/23               1498668
+3/9/23               1498668
+Name: 158, Length: 1147, dtype: object
+Province/State        NaN
+Country/Region      Kenya
+Lat               -0.0236
+Long              37.9062
+1/22/20                 0
+                   ...   
+3/5/23             342919
+3/6/23             342919
+3/7/23             342932
+3/8/23             342937
+3/9/23             342937
+Name: 159, Length: 1147, dtype: object
+Province/State         NaN
+Country/Region    Kiribati
+Lat                -3.3704
+Long              -168.734
+1/22/20                  0
+                    ...   
+3/5/23                5013
+3/6/23                5013
+3/7/23                5013
+3/8/23                5014
+3/9/23                5014
+Name: 160, Length: 1147, dtype: object
+Province/State             NaN
+Country/Region    Korea, North
+Lat                    40.3399
+Long                  127.5101
+1/22/20                      0
+                      ...     
+3/5/23                       1
+3/6/23                       1
+3/7/23                       1
+3/8/23                       1
+3/9/23                       1
+Name: 161, Length: 1147, dtype: object
+Province/State             NaN
+Country/Region    Korea, South
+Lat                  35.907757
+Long                127.766922
+1/22/20                      1
+                      ...     
+3/5/23                30569215
+3/6/23                30581499
+3/7/23                30594297
+3/8/23                30605187
+3/9/23                30615522
+Name: 162, Length: 1147, dtype: object
+Province/State          NaN
+Country/Region       Kosovo
+Lat               42.602636
+Long              20.902977
+1/22/20                   0
+                    ...    
+3/5/23               273223
+3/6/23               273224
+3/7/23               273257
+3/8/23               273291
+3/9/23               273312
+Name: 163, Length: 1147, dtype: object
+Province/State          NaN
+Country/Region       Kuwait
+Lat                29.31166
+Long              47.481766
+1/22/20                   0
+                    ...    
+3/5/23               663456
+3/6/23               663456
+3/7/23               663456
+3/8/23               663860
+3/9/23               663860
+Name: 164, Length: 1147, dtype: object
+Province/State           NaN
+Country/Region    Kyrgyzstan
+Lat                 41.20438
+Long               74.766098
+1/22/20                    0
+                     ...    
+3/5/23                206673
+3/6/23                206673
+3/7/23                206673
+3/8/23                206708
+3/9/23                206708
+Name: 165, Length: 1147, dtype: object
+Province/State           NaN
+Country/Region          Laos
+Lat                 19.85627
+Long              102.495496
+1/22/20                    0
+                     ...    
+3/5/23                218020
+3/6/23                218020
+3/7/23                218020
+3/8/23                218023
+3/9/23                218023
+Name: 166, Length: 1147, dtype: object
+Province/State        NaN
+Country/Region     Latvia
+Lat               56.8796
+Long              24.6032
+1/22/20                 0
+                   ...   
+3/5/23             976095
+3/6/23             976162
+3/7/23             976188
+3/8/23             976228
+3/9/23             976255
+Name: 167, Length: 1147, dtype: object
+Province/State        NaN
+Country/Region    Lebanon
+Lat               33.8547
+Long              35.8623
+1/22/20                 0
+                   ...   
+3/5/23            1232517
+3/6/23            1232517
+3/7/23            1232517
+3/8/23            1232649
+3/9/23            1232828
+Name: 168, Length: 1147, dtype: object
+Province/State        NaN
+Country/Region    Lesotho
+Lat                -29.61
+Long              28.2336
+1/22/20                 0
+                   ...   
+3/5/23              34790
+3/6/23              34790
+3/7/23              34790
+3/8/23              34790
+3/9/23              34790
+Name: 169, Length: 1147, dtype: object
+Province/State         NaN
+Country/Region     Liberia
+Lat               6.428055
+Long             -9.429499
+1/22/20                  0
+                    ...   
+3/5/23                8090
+3/6/23                8090
+3/7/23                8090
+3/8/23                8090
+3/9/23                8090
+Name: 170, Length: 1147, dtype: object
+Province/State          NaN
+Country/Region        Libya
+Lat                 26.3351
+Long              17.228331
+1/22/20                   0
+                    ...    
+3/5/23               507174
+3/6/23               507187
+3/7/23               507187
+3/8/23               507187
+3/9/23               507187
+Name: 171, Length: 1147, dtype: object
+Province/State              NaN
+Country/Region    Liechtenstein
+Lat                       47.14
+Long                       9.55
+1/22/20                       0
+                      ...      
+3/5/23                    21426
+3/6/23                    21426
+3/7/23                    21426
+3/8/23                    21432
+3/9/23                    21432
+Name: 172, Length: 1147, dtype: object
+Province/State          NaN
+Country/Region    Lithuania
+Lat                 55.1694
+Long                23.8813
+1/22/20                   0
+                    ...    
+3/5/23              1306327
+3/6/23              1306368
+3/7/23              1307021
+3/8/23              1307448
+3/9/23              1307448
+Name: 173, Length: 1147, dtype: object
+Province/State           NaN
+Country/Region    Luxembourg
+Lat                  49.8153
+Long                  6.1296
+1/22/20                    0
+                     ...    
+3/5/23                316601
+3/6/23                316601
+3/7/23                316601
+3/8/23                317367
+3/9/23                317367
+Name: 174, Length: 1147, dtype: object
+Province/State           NaN
+Country/Region    MS Zaandam
+Lat                      0.0
+Long                     0.0
+1/22/20                    0
+                     ...    
+3/5/23                     9
+3/6/23                     9
+3/7/23                     9
+3/8/23                     9
+3/9/23                     9
+Name: 175, Length: 1147, dtype: object
+Province/State           NaN
+Country/Region    Madagascar
+Lat               -18.766947
+Long               46.869107
+1/22/20                    0
+                     ...    
+3/5/23                 67889
+3/6/23                 67889
+3/7/23                 67889
+3/8/23                 67889
+3/9/23                 67889
+Name: 176, Length: 1147, dtype: object
+Province/State        NaN
+Country/Region     Malawi
+Lat              -13.2543
+Long              34.3015
+1/22/20                 0
+                   ...   
+3/5/23              88702
+3/6/23              88702
+3/7/23              88702
+3/8/23              88707
+3/9/23              88707
+Name: 177, Length: 1147, dtype: object
+Province/State           NaN
+Country/Region      Malaysia
+Lat                 4.210484
+Long              101.975766
+1/22/20                    0
+                     ...    
+3/5/23               5043790
+3/6/23               5043978
+3/7/23               5044204
+3/8/23               5044439
+3/9/23               5044718
+Name: 178, Length: 1147, dtype: object
+Province/State         NaN
+Country/Region    Maldives
+Lat                 3.2028
+Long               73.2207
+1/22/20                  0
+                    ...   
+3/5/23              185732
+3/6/23              185738
+3/7/23              185738
+3/8/23              185738
+3/9/23              185738
+Name: 179, Length: 1147, dtype: object
+Province/State          NaN
+Country/Region         Mali
+Lat               17.570692
+Long              -3.996166
+1/22/20                   0
+                    ...    
+3/5/23                33053
+3/6/23                33056
+3/7/23                33059
+3/8/23                33061
+3/9/23                33062
+Name: 180, Length: 1147, dtype: object
+Province/State        NaN
+Country/Region      Malta
+Lat               35.9375
+Long              14.3754
+1/22/20                 0
+                   ...   
+3/5/23             117477
+3/6/23             117477
+3/7/23             117610
+3/8/23             117610
+3/9/23             117610
+Name: 181, Length: 1147, dtype: object
+Province/State                 NaN
+Country/Region    Marshall Islands
+Lat                         7.1315
+Long                      171.1845
+1/22/20                          0
+                        ...       
+3/5/23                       15618
+3/6/23                       15618
+3/7/23                       15618
+3/8/23                       15649
+3/9/23                       15649
+Name: 182, Length: 1147, dtype: object
+Province/State           NaN
+Country/Region    Mauritania
+Lat                  21.0079
+Long                -10.9408
+1/22/20                    0
+                     ...    
+3/5/23                 63668
+3/6/23                 63668
+3/7/23                 63668
+3/8/23                 63668
+3/9/23                 63668
+Name: 183, Length: 1147, dtype: object
+Province/State          NaN
+Country/Region    Mauritius
+Lat              -20.348404
+Long              57.552152
+1/22/20                   0
+                    ...    
+3/5/23               295440
+3/6/23               295440
+3/7/23               295440
+3/8/23               296042
+3/9/23               296042
+Name: 184, Length: 1147, dtype: object
+Province/State         NaN
+Country/Region      Mexico
+Lat                23.6345
+Long             -102.5528
+1/22/20                  0
+                    ...   
+3/5/23             7470653
+3/6/23             7470653
+3/7/23             7475219
+3/8/23             7479635
+3/9/23             7483444
+Name: 185, Length: 1147, dtype: object
+Province/State           NaN
+Country/Region    Micronesia
+Lat                   7.4256
+Long                150.5508
+1/22/20                    0
+                     ...    
+3/5/23                 23948
+3/6/23                 23948
+3/7/23                 23948
+3/8/23                 23948
+3/9/23                 23948
+Name: 186, Length: 1147, dtype: object
+Province/State        NaN
+Country/Region    Moldova
+Lat               47.4116
+Long              28.3699
+1/22/20                 0
+                   ...   
+3/5/23             607450
+3/6/23             607450
+3/7/23             607450
+3/8/23             611140
+3/9/23             611140
+Name: 187, Length: 1147, dtype: object
+Province/State        NaN
+Country/Region     Monaco
+Lat               43.7333
+Long               7.4167
+1/22/20                 0
+                   ...   
+3/5/23              16115
+3/6/23              16121
+3/7/23              16121
+3/8/23              16121
+3/9/23              16121
+Name: 188, Length: 1147, dtype: object
+Province/State         NaN
+Country/Region    Mongolia
+Lat                46.8625
+Long              103.8467
+1/22/20                  0
+                    ...   
+3/5/23             1007897
+3/6/23             1007897
+3/7/23             1007897
+3/8/23             1007900
+3/9/23             1007900
+Name: 189, Length: 1147, dtype: object
+Province/State           NaN
+Country/Region    Montenegro
+Lat                42.708678
+Long                19.37439
+1/22/20                    0
+                     ...    
+3/5/23                288552
+3/6/23                288630
+3/7/23                288682
+3/8/23                288752
+3/9/23                288808
+Name: 190, Length: 1147, dtype: object
+Province/State        NaN
+Country/Region    Morocco
+Lat               31.7917
+Long              -7.0926
+1/22/20                 0
+                   ...   
+3/5/23            1272487
+3/6/23            1272490
+3/7/23            1272490
+3/8/23            1272490
+3/9/23            1272490
+Name: 191, Length: 1147, dtype: object
+Province/State           NaN
+Country/Region    Mozambique
+Lat               -18.665695
+Long               35.529562
+1/22/20                    0
+                     ...    
+3/5/23                233098
+3/6/23                233098
+3/7/23                233214
+3/8/23                233214
+3/9/23                233214
+Name: 192, Length: 1147, dtype: object
+Province/State        NaN
+Country/Region    Namibia
+Lat              -22.9576
+Long              18.4904
+1/22/20                 0
+                   ...   
+3/5/23             171156
+3/6/23             171156
+3/7/23             171156
+3/8/23             171156
+3/9/23             171156
+Name: 193, Length: 1147, dtype: object
+Province/State         NaN
+Country/Region       Nauru
+Lat                -0.5228
+Long              166.9315
+1/22/20                  0
+                    ...   
+3/5/23                5247
+3/6/23                5247
+3/7/23                5247
+3/8/23                5247
+3/9/23                5247
+Name: 194, Length: 1147, dtype: object
+Province/State        NaN
+Country/Region      Nepal
+Lat               28.1667
+Long                84.25
+1/22/20                 0
+                   ...   
+3/5/23            1001149
+3/6/23            1001149
+3/7/23            1001149
+3/8/23            1001150
+3/9/23            1001154
+Name: 195, Length: 1147, dtype: object
+Province/State          Aruba
+Country/Region    Netherlands
+Lat                   12.5211
+Long                 -69.9683
+1/22/20                     0
+                     ...     
+3/5/23                  44044
+3/6/23                  44044
+3/7/23                  44044
+3/8/23                  44044
+3/9/23                  44044
+Name: 196, Length: 1147, dtype: object
+Province/State    Bonaire, Sint Eustatius and Saba
+Country/Region                         Netherlands
+Lat                                        12.1784
+Long                                      -68.2385
+1/22/20                                          0
+                                ...               
+3/5/23                                       11804
+3/6/23                                       11804
+3/7/23                                       11804
+3/8/23                                       11804
+3/9/23                                       11804
+Name: 197, Length: 1147, dtype: object
+Province/State        Curacao
+Country/Region    Netherlands
+Lat                   12.1696
+Long                   -68.99
+1/22/20                     0
+                     ...     
+3/5/23                  45986
+3/6/23                  45986
+3/7/23                  45986
+3/8/23                  45986
+3/9/23                  45986
+Name: 198, Length: 1147, dtype: object
+Province/State    Sint Maarten
+Country/Region     Netherlands
+Lat                    18.0425
+Long                  -63.0548
+1/22/20                      0
+                      ...     
+3/5/23                   11020
+3/6/23                   11020
+3/7/23                   11020
+3/8/23                   11020
+3/9/23                   11020
+Name: 199, Length: 1147, dtype: object
+Province/State            NaN
+Country/Region    Netherlands
+Lat                   52.1326
+Long                   5.2913
+1/22/20                     0
+                     ...     
+3/5/23                8598043
+3/6/23                8598043
+3/7/23                8599981
+3/8/23                8599981
+3/9/23                8599981
+Name: 200, Length: 1147, dtype: object
+Province/State    Cook Islands
+Country/Region     New Zealand
+Lat                   -21.2367
+Long                 -159.7777
+1/22/20                      0
+                      ...     
+3/5/23                    7030
+3/6/23                    7031
+3/7/23                    7031
+3/8/23                    7031
+3/9/23                    7031
+Name: 201, Length: 1147, dtype: object
+Province/State           Niue
+Country/Region    New Zealand
+Lat                  -19.0544
+Long                -169.8672
+1/22/20                     0
+                     ...     
+3/5/23                    790
+3/6/23                    791
+3/7/23                    791
+3/8/23                    791
+3/9/23                    792
+Name: 202, Length: 1147, dtype: object
+Province/State            NaN
+Country/Region    New Zealand
+Lat                  -40.9006
+Long                  174.886
+1/22/20                     0
+                     ...     
+3/5/23                2228291
+3/6/23                2228291
+3/7/23                2228291
+3/8/23                2228291
+3/9/23                2228291
+Name: 203, Length: 1147, dtype: object
+Province/State          NaN
+Country/Region    Nicaragua
+Lat               12.865416
+Long             -85.207229
+1/22/20                   0
+                    ...    
+3/5/23                15638
+3/6/23                15638
+3/7/23                15638
+3/8/23                15655
+3/9/23                15655
+Name: 204, Length: 1147, dtype: object
+Province/State          NaN
+Country/Region        Niger
+Lat               17.607789
+Long               8.081666
+1/22/20                   0
+                    ...    
+3/5/23                 9508
+3/6/23                 9508
+3/7/23                 9508
+3/8/23                 9508
+3/9/23                 9508
+Name: 205, Length: 1147, dtype: object
+Province/State        NaN
+Country/Region    Nigeria
+Lat                 9.082
+Long               8.6753
+1/22/20                 0
+                   ...   
+3/5/23             266598
+3/6/23             266598
+3/7/23             266598
+3/8/23             266598
+3/9/23             266598
+Name: 206, Length: 1147, dtype: object
+Province/State                NaN
+Country/Region    North Macedonia
+Lat                       41.6086
+Long                      21.7453
+1/22/20                         0
+                       ...       
+3/5/23                     346852
+3/6/23                     346852
+3/7/23                     346852
+3/8/23                     346852
+3/9/23                     346852
+Name: 207, Length: 1147, dtype: object
+Province/State        NaN
+Country/Region     Norway
+Lat                60.472
+Long               8.4689
+1/22/20                 0
+                   ...   
+3/5/23            1479259
+3/6/23            1479334
+3/7/23            1479392
+3/8/23            1479453
+3/9/23            1479506
+Name: 208, Length: 1147, dtype: object
+Province/State          NaN
+Country/Region         Oman
+Lat               21.512583
+Long              55.923255
+1/22/20                   0
+                    ...    
+3/5/23               399449
+3/6/23               399449
+3/7/23               399449
+3/8/23               399449
+3/9/23               399449
+Name: 209, Length: 1147, dtype: object
+Province/State         NaN
+Country/Region    Pakistan
+Lat                30.3753
+Long               69.3451
+1/22/20                  0
+                    ...   
+3/5/23             1577213
+3/6/23             1577243
+3/7/23             1577288
+3/8/23             1577338
+3/9/23             1577411
+Name: 210, Length: 1147, dtype: object
+Province/State         NaN
+Country/Region       Palau
+Lat                  7.515
+Long              134.5825
+1/22/20                  0
+                    ...   
+3/5/23                5989
+3/6/23                5989
+3/7/23                5989
+3/8/23                5991
+3/9/23                5991
+Name: 211, Length: 1147, dtype: object
+Province/State        NaN
+Country/Region     Panama
+Lat                 8.538
+Long             -80.7821
+1/22/20                 0
+                   ...   
+3/5/23            1031273
+3/6/23            1031731
+3/7/23            1031731
+3/8/23            1031731
+3/9/23            1031731
+Name: 212, Length: 1147, dtype: object
+Province/State                 NaN
+Country/Region    Papua New Guinea
+Lat                      -6.314993
+Long                     143.95555
+1/22/20                          0
+                        ...       
+3/5/23                       46809
+3/6/23                       46809
+3/7/23                       46809
+3/8/23                       46825
+3/9/23                       46825
+Name: 213, Length: 1147, dtype: object
+Province/State         NaN
+Country/Region    Paraguay
+Lat               -23.4425
+Long              -58.4438
+1/22/20                  0
+                    ...   
+3/5/23              808401
+3/6/23              808401
+3/7/23              808401
+3/8/23              808401
+3/9/23              808401
+Name: 214, Length: 1147, dtype: object
+Province/State        NaN
+Country/Region       Peru
+Lat                 -9.19
+Long             -75.0152
+1/22/20                 0
+                   ...   
+3/5/23            4486832
+3/6/23            4486934
+3/7/23            4486934
+3/8/23            4487553
+3/9/23            4487553
+Name: 215, Length: 1147, dtype: object
+Province/State            NaN
+Country/Region    Philippines
+Lat                 12.879721
+Long               121.774017
+1/22/20                     0
+                     ...     
+3/5/23                4077002
+3/6/23                4077109
+3/7/23                4077183
+3/8/23                4077302
+3/9/23                4077452
+Name: 216, Length: 1147, dtype: object
+Province/State        NaN
+Country/Region     Poland
+Lat               51.9194
+Long              19.1451
+1/22/20                 0
+                   ...   
+3/5/23            6432315
+3/6/23            6432765
+3/7/23            6437598
+3/8/23            6441501
+3/9/23            6444960
+Name: 217, Length: 1147, dtype: object
+Province/State         NaN
+Country/Region    Portugal
+Lat                39.3999
+Long               -8.2245
+1/22/20                  0
+                    ...   
+3/5/23             5568084
+3/6/23             5568084
+3/7/23             5568084
+3/8/23             5570473
+3/9/23             5570473
+Name: 218, Length: 1147, dtype: object
+Province/State        NaN
+Country/Region      Qatar
+Lat               25.3548
+Long              51.1839
+1/22/20                 0
+                   ...   
+3/5/23             494522
+3/6/23             494737
+3/7/23             494868
+3/8/23             494982
+3/9/23             495090
+Name: 219, Length: 1147, dtype: object
+Province/State        NaN
+Country/Region    Romania
+Lat               45.9432
+Long              24.9668
+1/22/20                 0
+                   ...   
+3/5/23            3340342
+3/6/23            3346046
+3/7/23            3346046
+3/8/23            3346046
+3/9/23            3346046
+Name: 220, Length: 1147, dtype: object
+Province/State           NaN
+Country/Region        Russia
+Lat                 61.52401
+Long              105.318756
+1/22/20                    0
+                     ...    
+3/5/23              22029824
+3/6/23              22040875
+3/7/23              22051220
+3/8/23              22063473
+3/9/23              22075858
+Name: 221, Length: 1147, dtype: object
+Province/State        NaN
+Country/Region     Rwanda
+Lat               -1.9403
+Long              29.8739
+1/22/20                 0
+                   ...   
+3/5/23             133180
+3/6/23             133180
+3/7/23             133180
+3/8/23             133194
+3/9/23             133194
+Name: 222, Length: 1147, dtype: object
+Province/State                      NaN
+Country/Region    Saint Kitts and Nevis
+Lat                           17.357822
+Long                         -62.782998
+1/22/20                               0
+                          ...          
+3/5/23                             6597
+3/6/23                             6597
+3/7/23                             6597
+3/8/23                             6597
+3/9/23                             6597
+Name: 223, Length: 1147, dtype: object
+Province/State            NaN
+Country/Region    Saint Lucia
+Lat                   13.9094
+Long                 -60.9789
+1/22/20                     0
+                     ...     
+3/5/23                  30004
+3/6/23                  30004
+3/7/23                  30004
+3/8/23                  30004
+3/9/23                  30004
+Name: 224, Length: 1147, dtype: object
+Province/State                                 NaN
+Country/Region    Saint Vincent and the Grenadines
+Lat                                        12.9843
+Long                                      -61.2872
+1/22/20                                          0
+                                ...               
+3/5/23                                        9589
+3/6/23                                        9589
+3/7/23                                        9589
+3/8/23                                        9589
+3/9/23                                        9589
+Name: 225, Length: 1147, dtype: object
+Province/State         NaN
+Country/Region       Samoa
+Lat                -13.759
+Long             -172.1046
+1/22/20                  0
+                    ...   
+3/5/23               16607
+3/6/23               16607
+3/7/23               16607
+3/8/23               16607
+3/9/23               16607
+Name: 226, Length: 1147, dtype: object
+Province/State           NaN
+Country/Region    San Marino
+Lat                  43.9424
+Long                 12.4578
+1/22/20                    0
+                     ...    
+3/5/23                 23583
+3/6/23                 23583
+3/7/23                 23616
+3/8/23                 23616
+3/9/23                 23616
+Name: 227, Length: 1147, dtype: object
+Province/State                      NaN
+Country/Region    Sao Tome and Principe
+Lat                              0.1864
+Long                             6.6131
+1/22/20                               0
+                          ...          
+3/5/23                             6281
+3/6/23                             6281
+3/7/23                             6281
+3/8/23                             6281
+3/9/23                             6281
+Name: 228, Length: 1147, dtype: object
+Province/State             NaN
+Country/Region    Saudi Arabia
+Lat                  23.885942
+Long                 45.079162
+1/22/20                      0
+                      ...     
+3/5/23                  829784
+3/6/23                  829882
+3/7/23                  829955
+3/8/23                  830044
+3/9/23                  830127
+Name: 229, Length: 1147, dtype: object
+Province/State        NaN
+Country/Region    Senegal
+Lat               14.4974
+Long             -14.4524
+1/22/20                 0
+                   ...   
+3/5/23              88921
+3/6/23              88921
+3/7/23              88921
+3/8/23              88926
+3/9/23              88926
+Name: 230, Length: 1147, dtype: object
+Province/State        NaN
+Country/Region     Serbia
+Lat               44.0165
+Long              21.0059
+1/22/20                 0
+                   ...   
+3/5/23            2496295
+3/6/23            2497248
+3/7/23            2498315
+3/8/23            2499269
+3/9/23            2500142
+Name: 231, Length: 1147, dtype: object
+Province/State           NaN
+Country/Region    Seychelles
+Lat                  -4.6796
+Long                  55.492
+1/22/20                    0
+                     ...    
+3/5/23                 50665
+3/6/23                 50665
+3/7/23                 50665
+3/8/23                 50665
+3/9/23                 50665
+Name: 232, Length: 1147, dtype: object
+Province/State             NaN
+Country/Region    Sierra Leone
+Lat                   8.460555
+Long                -11.779889
+1/22/20                      0
+                      ...     
+3/5/23                    7760
+3/6/23                    7760
+3/7/23                    7760
+3/8/23                    7760
+3/9/23                    7760
+Name: 233, Length: 1147, dtype: object
+Province/State          NaN
+Country/Region    Singapore
+Lat                  1.2833
+Long               103.8333
+1/22/20                   0
+                    ...    
+3/5/23              2230868
+3/6/23              2230868
+3/7/23              2230868
+3/8/23              2235294
+3/9/23              2235294
+Name: 234, Length: 1147, dtype: object
+Province/State         NaN
+Country/Region    Slovakia
+Lat                 48.669
+Long                19.699
+1/22/20                  0
+                    ...   
+3/5/23             2666373
+3/6/23             2666427
+3/7/23             2666915
+3/8/23             2667289
+3/9/23             2667551
+Name: 235, Length: 1147, dtype: object
+Province/State         NaN
+Country/Region    Slovenia
+Lat                46.1512
+Long               14.9955
+1/22/20                  0
+                    ...   
+3/5/23             1329877
+3/6/23             1329975
+3/7/23             1330654
+3/8/23             1331196
+3/9/23             1331707
+Name: 236, Length: 1147, dtype: object
+Province/State                NaN
+Country/Region    Solomon Islands
+Lat                       -9.6457
+Long                     160.1562
+1/22/20                         0
+                       ...       
+3/5/23                      24575
+3/6/23                      24575
+3/7/23                      24575
+3/8/23                      24575
+3/9/23                      24575
+Name: 237, Length: 1147, dtype: object
+Province/State          NaN
+Country/Region      Somalia
+Lat                5.152149
+Long              46.199616
+1/22/20                   0
+                    ...    
+3/5/23                27324
+3/6/23                27324
+3/7/23                27324
+3/8/23                27324
+3/9/23                27324
+Name: 238, Length: 1147, dtype: object
+Province/State             NaN
+Country/Region    South Africa
+Lat                   -30.5595
+Long                   22.9375
+1/22/20                      0
+                      ...     
+3/5/23                 4064889
+3/6/23                 4065857
+3/7/23                 4066044
+3/8/23                 4066641
+3/9/23                 4067067
+Name: 239, Length: 1147, dtype: object
+Province/State            NaN
+Country/Region    South Sudan
+Lat                     6.877
+Long                   31.307
+1/22/20                     0
+                     ...     
+3/5/23                  18368
+3/6/23                  18368
+3/7/23                  18368
+3/8/23                  18368
+3/9/23                  18368
+Name: 240, Length: 1147, dtype: object
+Province/State          NaN
+Country/Region        Spain
+Lat               40.463667
+Long               -3.74922
+1/22/20                   0
+                    ...    
+3/5/23             13770429
+3/6/23             13770429
+3/7/23             13770429
+3/8/23             13770429
+3/9/23             13770429
+Name: 241, Length: 1147, dtype: object
+Province/State          NaN
+Country/Region    Sri Lanka
+Lat                7.873054
+Long              80.771797
+1/22/20                   0
+                    ...    
+3/5/23               672034
+3/6/23               672034
+3/7/23               672036
+3/8/23               672037
+3/9/23               672039
+Name: 242, Length: 1147, dtype: object
+Province/State        NaN
+Country/Region      Sudan
+Lat               12.8628
+Long              30.2176
+1/22/20                 0
+                   ...   
+3/5/23              63809
+3/6/23              63809
+3/7/23              63809
+3/8/23              63829
+3/9/23              63829
+Name: 243, Length: 1147, dtype: object
+Province/State                     NaN
+Country/Region    Summer Olympics 2020
+Lat                            35.6491
+Long                          139.7737
+1/22/20                              0
+                          ...         
+3/5/23                             865
+3/6/23                             865
+3/7/23                             865
+3/8/23                             865
+3/9/23                             865
+Name: 244, Length: 1147, dtype: object
+Province/State         NaN
+Country/Region    Suriname
+Lat                 3.9193
+Long              -56.0278
+1/22/20                  0
+                    ...   
+3/5/23               82467
+3/6/23               82467
+3/7/23               82467
+3/8/23               82467
+3/9/23               82467
+Name: 245, Length: 1147, dtype: object
+Province/State          NaN
+Country/Region       Sweden
+Lat               60.128161
+Long              18.643501
+1/22/20                   0
+                    ...    
+3/5/23              2698535
+3/6/23              2698535
+3/7/23              2698535
+3/8/23              2698535
+3/9/23              2699339
+Name: 246, Length: 1147, dtype: object
+Province/State            NaN
+Country/Region    Switzerland
+Lat                   46.8182
+Long                   8.2275
+1/22/20                     0
+                     ...     
+3/5/23                4412439
+3/6/23                4412439
+3/7/23                4413911
+3/8/23                4413911
+3/9/23                4413911
+Name: 247, Length: 1147, dtype: object
+Province/State          NaN
+Country/Region        Syria
+Lat               34.802075
+Long              38.996815
+1/22/20                   0
+                    ...    
+3/5/23                57467
+3/6/23                57467
+3/7/23                57467
+3/8/23                57467
+3/9/23                57467
+Name: 248, Length: 1147, dtype: object
+Province/State        NaN
+Country/Region    Taiwan*
+Lat                  23.7
+Long                121.0
+1/22/20                 1
+                   ...   
+3/5/23            9970937
+3/6/23            9970937
+3/7/23            9970937
+3/8/23            9970937
+3/9/23            9970937
+Name: 249, Length: 1147, dtype: object
+Province/State           NaN
+Country/Region    Tajikistan
+Lat                   38.861
+Long                 71.2761
+1/22/20                    0
+                     ...    
+3/5/23                 17786
+3/6/23                 17786
+3/7/23                 17786
+3/8/23                 17786
+3/9/23                 17786
+Name: 250, Length: 1147, dtype: object
+Province/State          NaN
+Country/Region     Tanzania
+Lat               -6.369028
+Long              34.888822
+1/22/20                   0
+                    ...    
+3/5/23                42846
+3/6/23                42846
+3/7/23                42846
+3/8/23                42906
+3/9/23                42906
+Name: 251, Length: 1147, dtype: object
+Province/State           NaN
+Country/Region      Thailand
+Lat                15.870032
+Long              100.992541
+1/22/20                    4
+                     ...    
+3/5/23               4728182
+3/6/23               4728182
+3/7/23               4728182
+3/8/23               4728182
+3/9/23               4728182
+Name: 252, Length: 1147, dtype: object
+Province/State            NaN
+Country/Region    Timor-Leste
+Lat                 -8.874217
+Long               125.727539
+1/22/20                     0
+                     ...     
+3/5/23                  23418
+3/6/23                  23418
+3/7/23                  23418
+3/8/23                  23419
+3/9/23                  23419
+Name: 253, Length: 1147, dtype: object
+Province/State       NaN
+Country/Region      Togo
+Lat               8.6195
+Long              0.8248
+1/22/20                0
+                   ...  
+3/5/23             39394
+3/6/23             39394
+3/7/23             39394
+3/8/23             39396
+3/9/23             39396
+Name: 254, Length: 1147, dtype: object
+Province/State         NaN
+Country/Region       Tonga
+Lat                -21.179
+Long             -175.1982
+1/22/20                  0
+                    ...   
+3/5/23               16807
+3/6/23               16807
+3/7/23               16807
+3/8/23               16810
+3/9/23               16810
+Name: 255, Length: 1147, dtype: object
+Province/State                    NaN
+Country/Region    Trinidad and Tobago
+Lat                           10.6918
+Long                         -61.2225
+1/22/20                             0
+                         ...         
+3/5/23                         189296
+3/6/23                         189296
+3/7/23                         189918
+3/8/23                         189918
+3/9/23                         189918
+Name: 256, Length: 1147, dtype: object
+Province/State          NaN
+Country/Region      Tunisia
+Lat               33.886917
+Long               9.537499
+1/22/20                   0
+                    ...    
+3/5/23              1150962
+3/6/23              1150962
+3/7/23              1151126
+3/8/23              1151126
+3/9/23              1151126
+Name: 257, Length: 1147, dtype: object
+Province/State         NaN
+Country/Region      Turkey
+Lat                38.9637
+Long               35.2433
+1/22/20                  0
+                    ...   
+3/5/23            17042722
+3/6/23            17042722
+3/7/23            17042722
+3/8/23            17042722
+3/9/23            17042722
+Name: 258, Length: 1147, dtype: object
+Province/State         NaN
+Country/Region      Tuvalu
+Lat                -7.1095
+Long              177.6493
+1/22/20                  0
+                    ...   
+3/5/23                2805
+3/6/23                2805
+3/7/23                2805
+3/8/23                2805
+3/9/23                2805
+Name: 259, Length: 1147, dtype: object
+Province/State          NaN
+Country/Region           US
+Lat                    40.0
+Long                 -100.0
+1/22/20                   1
+                    ...    
+3/5/23            103646975
+3/6/23            103655539
+3/7/23            103690910
+3/8/23            103755771
+3/9/23            103802702
+Name: 260, Length: 1147, dtype: object
+Province/State          NaN
+Country/Region       Uganda
+Lat                1.373333
+Long              32.290275
+1/22/20                   0
+                    ...    
+3/5/23               170504
+3/6/23               170504
+3/7/23               170504
+3/8/23               170544
+3/9/23               170544
+Name: 261, Length: 1147, dtype: object
+Province/State        NaN
+Country/Region    Ukraine
+Lat               48.3794
+Long              31.1656
+1/22/20                 0
+                   ...   
+3/5/23            5701743
+3/6/23            5701855
+3/7/23            5701959
+3/8/23            5711818
+3/9/23            5711929
+Name: 262, Length: 1147, dtype: object
+Province/State                     NaN
+Country/Region    United Arab Emirates
+Lat                          23.424076
+Long                         53.847818
+1/22/20                              0
+                          ...         
+3/5/23                         1052664
+3/6/23                         1052664
+3/7/23                         1052926
+3/8/23                         1053068
+3/9/23                         1053213
+Name: 263, Length: 1147, dtype: object
+Province/State          Anguilla
+Country/Region    United Kingdom
+Lat                      18.2206
+Long                    -63.0686
+1/22/20                        0
+                       ...      
+3/5/23                      3904
+3/6/23                      3904
+3/7/23                      3904
+3/8/23                      3904
+3/9/23                      3904
+Name: 264, Length: 1147, dtype: object
+Province/State           Bermuda
+Country/Region    United Kingdom
+Lat                      32.3078
+Long                    -64.7505
+1/22/20                        0
+                       ...      
+3/5/23                     18814
+3/6/23                     18814
+3/7/23                     18814
+3/8/23                     18828
+3/9/23                     18828
+Name: 265, Length: 1147, dtype: object
+Province/State    British Virgin Islands
+Country/Region            United Kingdom
+Lat                              18.4207
+Long                              -64.64
+1/22/20                                0
+                           ...          
+3/5/23                              7305
+3/6/23                              7305
+3/7/23                              7305
+3/8/23                              7305
+3/9/23                              7305
+Name: 266, Length: 1147, dtype: object
+Province/State    Cayman Islands
+Country/Region    United Kingdom
+Lat                      19.3133
+Long                    -81.2546
+1/22/20                        0
+                       ...      
+3/5/23                     31472
+3/6/23                     31472
+3/7/23                     31472
+3/8/23                     31472
+3/9/23                     31472
+Name: 267, Length: 1147, dtype: object
+Province/State    Channel Islands
+Country/Region     United Kingdom
+Lat                       49.3723
+Long                      -2.3644
+1/22/20                         0
+                       ...       
+3/5/23                          0
+3/6/23                          0
+3/7/23                          0
+3/8/23                          0
+3/9/23                          0
+Name: 268, Length: 1147, dtype: object
+Province/State    Falkland Islands (Malvinas)
+Country/Region                 United Kingdom
+Lat                                  -51.7963
+Long                                 -59.5236
+1/22/20                                     0
+                             ...             
+3/5/23                                   1930
+3/6/23                                   1930
+3/7/23                                   1930
+3/8/23                                   1930
+3/9/23                                   1930
+Name: 269, Length: 1147, dtype: object
+Province/State         Gibraltar
+Country/Region    United Kingdom
+Lat                      36.1408
+Long                     -5.3536
+1/22/20                        0
+                       ...      
+3/5/23                     20433
+3/6/23                     20433
+3/7/23                     20433
+3/8/23                     20433
+3/9/23                     20433
+Name: 270, Length: 1147, dtype: object
+Province/State          Guernsey
+Country/Region    United Kingdom
+Lat                    49.448196
+Long                    -2.58949
+1/22/20                        0
+                       ...      
+3/5/23                     34929
+3/6/23                     34929
+3/7/23                     34929
+3/8/23                     34991
+3/9/23                     34991
+Name: 271, Length: 1147, dtype: object
+Province/State       Isle of Man
+Country/Region    United Kingdom
+Lat                      54.2361
+Long                     -4.5481
+1/22/20                        0
+                       ...      
+3/5/23                     38008
+3/6/23                     38008
+3/7/23                     38008
+3/8/23                     38008
+3/9/23                     38008
+Name: 272, Length: 1147, dtype: object
+Province/State            Jersey
+Country/Region    United Kingdom
+Lat                      49.2138
+Long                     -2.1358
+1/22/20                        0
+                       ...      
+3/5/23                     66391
+3/6/23                     66391
+3/7/23                     66391
+3/8/23                     66391
+3/9/23                     66391
+Name: 273, Length: 1147, dtype: object
+Province/State        Montserrat
+Country/Region    United Kingdom
+Lat                    16.742498
+Long                  -62.187366
+1/22/20                        0
+                       ...      
+3/5/23                      1403
+3/6/23                      1403
+3/7/23                      1403
+3/8/23                      1403
+3/9/23                      1403
+Name: 274, Length: 1147, dtype: object
+Province/State    Pitcairn Islands
+Country/Region      United Kingdom
+Lat                       -24.3768
+Long                     -128.3242
+1/22/20                          0
+                        ...       
+3/5/23                           4
+3/6/23                           4
+3/7/23                           4
+3/8/23                           4
+3/9/23                           4
+Name: 275, Length: 1147, dtype: object
+Province/State    Saint Helena, Ascension and Tristan da Cunha
+Country/Region                                  United Kingdom
+Lat                                                    -7.9467
+Long                                                  -14.3559
+1/22/20                                                      0
+                                      ...                     
+3/5/23                                                    2166
+3/6/23                                                    2166
+3/7/23                                                    2166
+3/8/23                                                    2166
+3/9/23                                                    2166
+Name: 276, Length: 1147, dtype: object
+Province/State    Turks and Caicos Islands
+Country/Region              United Kingdom
+Lat                                 21.694
+Long                              -71.7979
+1/22/20                                  0
+                            ...           
+3/5/23                                6551
+3/6/23                                6551
+3/7/23                                6557
+3/8/23                                6557
+3/9/23                                6561
+Name: 277, Length: 1147, dtype: object
+Province/State               NaN
+Country/Region    United Kingdom
+Lat                      55.3781
+Long                      -3.436
+1/22/20                        0
+                       ...      
+3/5/23                  24396530
+3/6/23                  24396530
+3/7/23                  24396530
+3/8/23                  24396530
+3/9/23                  24425309
+Name: 278, Length: 1147, dtype: object
+Province/State        NaN
+Country/Region    Uruguay
+Lat              -32.5228
+Long             -55.7658
+1/22/20                 0
+                   ...   
+3/5/23            1034303
+3/6/23            1034303
+3/7/23            1034303
+3/8/23            1034303
+3/9/23            1034303
+Name: 279, Length: 1147, dtype: object
+Province/State           NaN
+Country/Region    Uzbekistan
+Lat                41.377491
+Long               64.585262
+1/22/20                    0
+                     ...    
+3/5/23                251071
+3/6/23                251071
+3/7/23                251071
+3/8/23                251247
+3/9/23                251247
+Name: 280, Length: 1147, dtype: object
+Province/State         NaN
+Country/Region     Vanuatu
+Lat               -15.3767
+Long              166.9592
+1/22/20                  0
+                    ...   
+3/5/23               12014
+3/6/23               12014
+3/7/23               12014
+3/8/23               12014
+3/9/23               12014
+Name: 281, Length: 1147, dtype: object
+Province/State          NaN
+Country/Region    Venezuela
+Lat                  6.4238
+Long               -66.5897
+1/22/20                   0
+                    ...    
+3/5/23               552051
+3/6/23               552125
+3/7/23               552157
+3/8/23               552157
+3/9/23               552162
+Name: 282, Length: 1147, dtype: object
+Province/State           NaN
+Country/Region       Vietnam
+Lat                14.058324
+Long              108.277199
+1/22/20                    0
+                     ...    
+3/5/23              11526966
+3/6/23              11526966
+3/7/23              11526986
+3/8/23              11526994
+3/9/23              11526994
+Name: 283, Length: 1147, dtype: object
+Province/State                   NaN
+Country/Region    West Bank and Gaza
+Lat                          31.9522
+Long                         35.2332
+1/22/20                            0
+                         ...        
+3/5/23                        703228
+3/6/23                        703228
+3/7/23                        703228
+3/8/23                        703228
+3/9/23                        703228
+Name: 284, Length: 1147, dtype: object
+Province/State                     NaN
+Country/Region    Winter Olympics 2022
+Lat                            39.9042
+Long                          116.4074
+1/22/20                              0
+                          ...         
+3/5/23                             535
+3/6/23                             535
+3/7/23                             535
+3/8/23                             535
+3/9/23                             535
+Name: 285, Length: 1147, dtype: object
+Province/State          NaN
+Country/Region        Yemen
+Lat               15.552727
+Long              48.516388
+1/22/20                   0
+                    ...    
+3/5/23                11945
+3/6/23                11945
+3/7/23                11945
+3/8/23                11945
+3/9/23                11945
+Name: 286, Length: 1147, dtype: object
+Province/State          NaN
+Country/Region       Zambia
+Lat              -13.133897
+Long              27.849332
+1/22/20                   0
+                    ...    
+3/5/23               343135
+3/6/23               343135
+3/7/23               343135
+3/8/23               343135
+3/9/23               343135
+Name: 287, Length: 1147, dtype: object
+Province/State          NaN
+Country/Region     Zimbabwe
+Lat              -19.015438
+Long              29.154857
+1/22/20                   0
+                    ...    
+3/5/23               264127
+3/6/23               264127
+3/7/23               264127
+3/8/23               264276
+3/9/23               264276
+Name: 288, Length: 1147, dtype: object
